@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/L11R/pyrusapi-go"
+	"github.com/Lookatshow/pyrusapi-go"
 )
 
 func main() {
