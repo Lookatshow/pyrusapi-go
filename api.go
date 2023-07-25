@@ -21,8 +21,8 @@ import (
 )
 
 const (
-	baseURL   = "https://api.pyrus.com/v4"
-	userAgent = "Pyrus API golang client v0.0.1"
+	baseURL   = "https://pyrus.sovcombank.ru/api/v4"
+	userAgent = "Pyrus API golang client v0.0.2"
 )
 
 type Client struct {
